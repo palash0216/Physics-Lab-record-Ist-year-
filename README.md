@@ -22,4 +22,7 @@ behavior on an oscilloscope.
 
 ### 📷 Pictures
 
-| ![Devices](./img010.jpg) | 
+![Devices](./img010.jpg)
+![Devices](./img011.jpg)
+![Devices](./img012.jpg)
+![Devices](./img015.jpg)
